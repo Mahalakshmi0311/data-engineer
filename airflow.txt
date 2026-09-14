@@ -2,3 +2,4 @@ name : mahalakshmi
 place : chennai
 role : data engineer
 company : TCS
+salary : 6LPA
