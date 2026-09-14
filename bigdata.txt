@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Big Data Processing: Analyze huge datasets that cannot fit into the memory of a single machine.DataFrames and Spark SQL: Run distributed table operations and fast SQL queries.Machine Learning: Build scalable machine learning workflows using MLlib.Real-time Streaming: Process live data streams using Structured Streaming.You can practice and test code directly in your browser using tools like PySpark 
+=======
+A data pipeline is an automated system that moves raw data from multiple sources, transforms it, and loads it into a destination storage system for analysis. [1] (https://www.ibm.com/think/topics/data-pipeline), [2] (https://www.fivetran.com/blog/what-is-a-data-pipeline)As a general consensus on platforms like Reddit, a data pipeline is an overarching term for automated data movement, which can range from simple file transfers to complex real-time event processing. You can learn more about how these systems function via the IBM Data Pipeline Guide or the AWS What Is a Data Pipeline overview 
+>>>>>>> warehouse
